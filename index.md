@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# 포르자 모터스포츠를 잼있게 즐기기 위한 정보 모음
 
-You can use the [editor on GitHub](https://github.com/parktube/forza/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 게임 구매 팁
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 레이싱 강좌
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [초보자를 위한 패드 조작 가이드](http://m.ruliweb.com/game/xbox/84126/board/read/8963280)
+- [초보자를 위한 레이싱 스쿨 1부](http://m.ruliweb.com/game/xbox/82450/board/read/4693274)
+- [초보자를 위한 레이싱 스쿨 2부](http://m.ruliweb.com/game/xbox/82450/board/read/4694695)
+- [초보자를 위한 레이싱 스쿨 3부](http://m.ruliweb.com/game/xbox/84126/board/read/4697782)
+- [초보자를 위한 레이싱 스쿨 4부](http://m.ruliweb.com/game/xbox/82450/board/read/4701535)
 
-```markdown
-Syntax highlighted code block
+## 게임내 휠 설정
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 게임 커뮤니티
+### 포르자 모터스포츠 리그
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 휠 정보
 
-[Link](url) and ![Image](src)
-```
+### 로지텍 G920
+- 매년 블프에 영마존에서 세일을 한다. 20만원 초반에 구매 가능
+- 페달의 브레이크 답력이 쎄다. 신발을 신지 않는다면 브레이크를 분해하여 고무를 제거한다.
+- [브레이크 고무 제거 방법 설명 동영상](https://www.youtube.com/watch?v=1SHzhA1ukjs)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 파나텍 V2.5 베이스
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parktube/forza/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 파나텍 V3 페달
 
-### Support or Contact
+## 거치대 정보
+###플레이시트 챌린지
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
